@@ -32,7 +32,7 @@ Resources:
         Variables:
           env : !Ref Env
       FunctionName: !Ref AWS::StackName
-      Handler: lambda_import_registration.lambda_handler
+      Handler: exports.handler
       Runtime: nodejs14.x
       Code:  
         ZipFile: |
