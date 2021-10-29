@@ -1,0 +1,84 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: Lambda Filemover 
+Parameters:
+  Project:
+    Description: Project Name
+    Type: String
+    AllowedPattern: ^[a-z0-9]*$
+    Default: plat01
+  Env:
+    Description: Environment (dev, tst, prd)
+    Type: String
+    Default: dev1
+  Type:
+    Description: VPC Subnet Type - Protected or Private
+    Type: String
+    AllowedValues:
+      - Private
+      - Protected
+    Default: Protected
+  DataSource:
+    Description: Data Source Name
+    Type: String
+    Default: upload
+
+
+Resources:
+  Function:
+    Type: 'AWS::Lambda::Function'
+    Properties:
+      Description: Lambda to be invoked by a user xlsx file landing in S3 bucket
+      Environment:
+        Variables:
+          env : !Ref Env
+      FunctionName: !Ref AWS::StackName
+      Handler: lambda_import_registration.lambda_handler
+      Runtime: nodejs14.x
+      Code:  
+        ZipFile: |
+          console.log('Loading function');
+          const aws = require('aws-sdk');
+          const s3 = new aws.S3({ apiVersion: '2006-03-01' });
+
+          exports.handler = async (event, context) => {
+              //console.log('Received event:', JSON.stringify(event, null, 2));
+
+              // Get the object from the event and show its content type
+              const bucket = event.Records[0].s3.bucket.name;
+              const key = decodeURIComponent(event.Records[0].s3.object.key.replace(/\+/g, ' '));
+              const params = {
+                  Bucket: bucket,
+                  Key: key,
+              }; 
+              try {
+                  const { ContentType } = await s3.getObject(params).promise();
+                  console.log(`Object ${key} from bucket ${bucket}`);
+                  console.log('CONTENT TYPE:', ContentType);
+                  return ContentType;
+              } catch (err) {
+                  console.log(err);
+                  const message = `Error getting object ${key} from bucket ${bucket}. Make sure they exist and your bucket is in the same region as this function.`;
+                  console.log(message);
+                  throw new Error(message);
+              }
+          };
+
+      Layers:
+        - !Sub 'arn:aws:lambda:${AWS::Region}:580247275435:layer:LambdaInsightsExtension:12'
+      MemorySize: 512
+#      Role: !Sub 'arn:aws:iam::${AWS::AccountId}:role/${DataSource}-${Env}-userImportarn:aws:iam::090505915523:role/service-role/test-ben-role-ft9itcpj'
+      Role: !Sub 'arn:aws:iam::${AWS::AccountId}:role/service-role/test-ben-role-ft9itcpj'
+      Timeout: 300
+
+  Permission:
+    Type: AWS::Lambda::Permission
+    Properties:
+      FunctionName: !GetAtt Function.Arn
+      Action: lambda:InvokeFunction
+      Principal: s3.amazonaws.com
+      SourceAccount: !Ref AWS::AccountId
+      SourceArn: !Sub 'arn:aws:s3:::plat01-${Env}-${DataSource}-${AWS::Region}'
+
+Outputs:
+  Function:
+    Value: !Ref Function
