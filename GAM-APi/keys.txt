@@ -1,0 +1,4006 @@
+{
+    'totalResultSetSize': 671,
+    'startIndex': 0,
+    'results': [
+        {
+            'customTargetingKeyId': 11936774,
+            'id': 448138796804,
+            'name': 'test mrss feed 1_pd',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306181,
+            'name': '0.01',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306184,
+            'name': '0.13',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306187,
+            'name': '0.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306190,
+            'name': '0.38',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306193,
+            'name': '0.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306196,
+            'name': '0.63',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306199,
+            'name': '0.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306202,
+            'name': '0.88',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306205,
+            'name': '1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306208,
+            'name': '1.12',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306211,
+            'name': '1.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306214,
+            'name': '1.37',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306217,
+            'name': '1.49',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306220,
+            'name': '1.61',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306223,
+            'name': '1.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306226,
+            'name': '1.87',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306229,
+            'name': '1.99',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306283,
+            'name': '2.35',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306286,
+            'name': '2.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306289,
+            'name': '3.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306292,
+            'name': '3.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306295,
+            'name': '4.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306298,
+            'name': '4.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306301,
+            'name': '5.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306304,
+            'name': '$6.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306307,
+            'name': '$7.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306310,
+            'name': '8.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306313,
+            'name': '9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306316,
+            'name': '9.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306319,
+            'name': '10.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306322,
+            'name': '11.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306325,
+            'name': '12.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306328,
+            'name': '13.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306331,
+            'name': '13.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306334,
+            'name': '14.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306337,
+            'name': '15.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306340,
+            'name': '$16.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566306343,
+            'name': '16.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307765,
+            'name': '0.02',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307768,
+            'name': '0.04',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307771,
+            'name': '0.06',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307774,
+            'name': '0.08',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307777,
+            'name': '0.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307780,
+            'name': '0.12',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307783,
+            'name': '0.14',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307786,
+            'name': '0.16',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307789,
+            'name': '0.18',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307792,
+            'name': '2.95',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307795,
+            'name': '3.05',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307798,
+            'name': '3.15',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307801,
+            'name': '3.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307804,
+            'name': '3.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307807,
+            'name': '3.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307810,
+            'name': '3.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307813,
+            'name': '3.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307816,
+            'name': '3.85',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307819,
+            'name': '3.95',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307822,
+            'name': '4.05',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307825,
+            'name': '$4.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307828,
+            'name': '4.35',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307831,
+            'name': '4.45',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307834,
+            'name': '4.55',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307837,
+            'name': '4.65',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307840,
+            'name': '4.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307843,
+            'name': '4.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307846,
+            'name': '5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307849,
+            'name': '$5.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307852,
+            'name': '5.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307855,
+            'name': '5.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307858,
+            'name': '5.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307861,
+            'name': '6.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307864,
+            'name': '6.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307867,
+            'name': '6.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307870,
+            'name': '6.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307873,
+            'name': '7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307876,
+            'name': '7.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307879,
+            'name': '7.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307882,
+            'name': '7.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307885,
+            'name': '7.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307888,
+            'name': '8.2',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307891,
+            'name': '8.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307894,
+            'name': '8.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307897,
+            'name': '8.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307900,
+            'name': '9.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307903,
+            'name': '9.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307906,
+            'name': '9.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307909,
+            'name': '9.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307912,
+            'name': '10.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307915,
+            'name': '10.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307918,
+            'name': '10.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307921,
+            'name': '10.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307924,
+            'name': '10.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307927,
+            'name': '11',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307930,
+            'name': '11.2',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307933,
+            'name': '11.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307936,
+            'name': '11.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307939,
+            'name': '11.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307942,
+            'name': '11.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307945,
+            'name': '12.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307948,
+            'name': '12.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307951,
+            'name': '12.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307954,
+            'name': '12.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307957,
+            'name': '12.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307960,
+            'name': '13',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307963,
+            'name': '13.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307966,
+            'name': '13.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307969,
+            'name': '13.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307972,
+            'name': '13.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307975,
+            'name': '14',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307978,
+            'name': '14.2',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307981,
+            'name': '14.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307984,
+            'name': '14.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307987,
+            'name': '14.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307990,
+            'name': '15',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307993,
+            'name': '15.2',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307996,
+            'name': '15.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566307999,
+            'name': '15.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308002,
+            'name': '15.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308005,
+            'name': '15.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308008,
+            'name': '16.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308011,
+            'name': '16.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308014,
+            'name': '16.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308017,
+            'name': '16.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308020,
+            'name': '16.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308023,
+            'name': '17.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308026,
+            'name': '17.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308029,
+            'name': '17.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308725,
+            'name': '17.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308728,
+            'name': '17.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308734,
+            'name': '$18.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308740,
+            'name': '18.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308743,
+            'name': '18.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308749,
+            'name': '18.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308752,
+            'name': '18.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308758,
+            'name': '$19.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308764,
+            'name': '19.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308770,
+            'name': '19.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308776,
+            'name': '19.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308779,
+            'name': '20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308785,
+            'name': '20.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308791,
+            'name': '20.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308797,
+            'name': '20.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308800,
+            'name': '21',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308803,
+            'name': '21.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308809,
+            'name': '21.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308815,
+            'name': '21.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308818,
+            'name': '22.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308824,
+            'name': '22.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308827,
+            'name': '22.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308833,
+            'name': '22.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308839,
+            'name': '23.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566308842,
+            'name': '97.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543546,
+            'name': '1.85',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543549,
+            'name': '1.88',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543552,
+            'name': '1.91',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543555,
+            'name': '1.93',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543558,
+            'name': '1.95',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543561,
+            'name': '1.97',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543564,
+            'name': '2',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543822,
+            'name': '2.05',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543825,
+            'name': '2.15',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543828,
+            'name': '2.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543831,
+            'name': '2.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543834,
+            'name': '2.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543837,
+            'name': '2.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543840,
+            'name': '2.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543843,
+            'name': '2.85',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543846,
+            'name': '12.2',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543849,
+            'name': '12.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543852,
+            'name': '12.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543855,
+            'name': '12.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543858,
+            'name': '12.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543861,
+            'name': '13.2',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543864,
+            'name': '13.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543867,
+            'name': '13.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543870,
+            'name': '13.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543873,
+            'name': '13.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543876,
+            'name': '14.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543879,
+            'name': '14.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543882,
+            'name': '14.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543885,
+            'name': '14.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543888,
+            'name': '14.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543891,
+            'name': '14.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543894,
+            'name': '15.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543897,
+            'name': '15.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543900,
+            'name': '15.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543903,
+            'name': '15.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543906,
+            'name': '15.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543909,
+            'name': '16',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543912,
+            'name': '16.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543915,
+            'name': '16.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543918,
+            'name': '16.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543921,
+            'name': '16.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543924,
+            'name': '17',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543927,
+            'name': '$17.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543930,
+            'name': '17.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566543933,
+            'name': '17.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544323,
+            'name': '17.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544326,
+            'name': '17.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544341,
+            'name': '18',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544347,
+            'name': '18.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544359,
+            'name': '18.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544365,
+            'name': '18.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544371,
+            'name': '18.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544374,
+            'name': '18.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544383,
+            'name': '18.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544395,
+            'name': '19',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544410,
+            'name': '19.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544413,
+            'name': '19.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544428,
+            'name': '19.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544434,
+            'name': '19.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544443,
+            'name': '19.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544452,
+            'name': '19.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544458,
+            'name': '20.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544473,
+            'name': '20.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544479,
+            'name': '20.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544491,
+            'name': '20.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544497,
+            'name': '20.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544503,
+            'name': '21.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544506,
+            'name': '$21.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544515,
+            'name': '21.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544530,
+            'name': '21.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544536,
+            'name': '21.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544542,
+            'name': '22',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544551,
+            'name': '$22.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544557,
+            'name': '22.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544560,
+            'name': '22.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544569,
+            'name': '22.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544584,
+            'name': '23',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544590,
+            'name': '$23.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544596,
+            'name': '70',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544599,
+            'name': '71.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544602,
+            'name': '73.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544605,
+            'name': '75.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544608,
+            'name': '77.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544611,
+            'name': '79.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544614,
+            'name': '81',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544617,
+            'name': '83.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544620,
+            'name': '85',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544623,
+            'name': '87',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544626,
+            'name': '88.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544629,
+            'name': '91',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544632,
+            'name': '92.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544635,
+            'name': '94.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544638,
+            'name': '96.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544641,
+            'name': '98.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566544644,
+            'name': '100',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961700,
+            'name': '0.03',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961703,
+            'name': '0.05',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961706,
+            'name': '0.07',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961709,
+            'name': '0.09',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961712,
+            'name': '0.11',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961715,
+            'name': '0.15',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961718,
+            'name': '0.17',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961721,
+            'name': '0.19',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961724,
+            'name': '0.21',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961727,
+            'name': '0.23',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961730,
+            'name': '0.26',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961733,
+            'name': '0.29',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961736,
+            'name': '0.31',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961739,
+            'name': '0.33',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961742,
+            'name': '0.35',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961745,
+            'name': '0.37',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961748,
+            'name': '0.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961751,
+            'name': '0.42',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961754,
+            'name': '0.45',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961757,
+            'name': '0.47',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961760,
+            'name': '0.49',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961763,
+            'name': '0.52',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961766,
+            'name': '0.54',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961769,
+            'name': '0.56',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961772,
+            'name': '0.59',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961775,
+            'name': '0.61',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961778,
+            'name': '0.64',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961781,
+            'name': '0.66',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961784,
+            'name': '0.68',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961787,
+            'name': '0.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961790,
+            'name': '0.73',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961793,
+            'name': '0.76',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961796,
+            'name': '0.78',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961799,
+            'name': '0.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961802,
+            'name': '0.82',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961805,
+            'name': '0.84',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961808,
+            'name': '0.87',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961811,
+            'name': '0.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961814,
+            'name': '0.92',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961817,
+            'name': '0.94',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961820,
+            'name': '0.96',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961823,
+            'name': '0.98',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961826,
+            'name': '1.01',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961829,
+            'name': '1.04',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961832,
+            'name': '1.06',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961835,
+            'name': '1.08',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961838,
+            'name': '1.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961841,
+            'name': '1.13',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961844,
+            'name': '1.15',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961847,
+            'name': '1.18',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961850,
+            'name': '$1.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961853,
+            'name': '1.22',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961856,
+            'name': '1.24',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961859,
+            'name': '1.27',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961862,
+            'name': '1.29',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961865,
+            'name': '1.32',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961868,
+            'name': '1.34',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961871,
+            'name': '1.36',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961874,
+            'name': '1.39',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961877,
+            'name': '1.41',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961880,
+            'name': '1.43',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961883,
+            'name': '1.46',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961886,
+            'name': '1.48',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961889,
+            'name': '1.51',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961892,
+            'name': '1.53',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961895,
+            'name': '1.55',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961898,
+            'name': '1.57',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961901,
+            'name': '1.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961904,
+            'name': '1.63',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961907,
+            'name': '1.65',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961910,
+            'name': '1.67',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961913,
+            'name': '1.69',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961916,
+            'name': '1.71',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961919,
+            'name': '1.73',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961922,
+            'name': '1.77',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961925,
+            'name': '1.79',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961928,
+            'name': '1.81',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961931,
+            'name': '1.83',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961934,
+            'name': '0.2',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961937,
+            'name': '0.22',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961940,
+            'name': '0.24',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961943,
+            'name': '0.27',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961946,
+            'name': '0.28',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961949,
+            'name': '0.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961952,
+            'name': '0.32',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961955,
+            'name': '0.34',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961958,
+            'name': '0.36',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961961,
+            'name': '0.39',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961964,
+            'name': '0.41',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961967,
+            'name': '0.43',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961970,
+            'name': '0.44',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961973,
+            'name': '0.46',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961976,
+            'name': '0.48',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961979,
+            'name': '0.51',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961982,
+            'name': '0.53',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961985,
+            'name': '0.55',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961988,
+            'name': '0.57',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961991,
+            'name': '0.58',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961994,
+            'name': '0.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566961997,
+            'name': '0.62',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962000,
+            'name': '0.65',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962003,
+            'name': '0.67',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962006,
+            'name': '0.69',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962009,
+            'name': '0.71',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962012,
+            'name': '0.72',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962015,
+            'name': '0.74',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962018,
+            'name': '0.77',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962021,
+            'name': '0.79',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962024,
+            'name': '0.81',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962027,
+            'name': '0.83',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962030,
+            'name': '0.85',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962033,
+            'name': '0.86',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962036,
+            'name': '0.89',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962039,
+            'name': '0.91',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962042,
+            'name': '0.93',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962045,
+            'name': '0.95',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962048,
+            'name': '0.97',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962051,
+            'name': '0.99',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962054,
+            'name': '1.02',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962057,
+            'name': '1.03',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962060,
+            'name': '1.05',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962063,
+            'name': '1.07',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962066,
+            'name': '1.09',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962069,
+            'name': '1.11',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962072,
+            'name': '1.14',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962075,
+            'name': '1.16',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962078,
+            'name': '1.17',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962081,
+            'name': '1.19',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962084,
+            'name': '1.21',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962087,
+            'name': '1.23',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962090,
+            'name': '1.26',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962093,
+            'name': '1.28',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962096,
+            'name': '1.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962099,
+            'name': '1.31',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962102,
+            'name': '1.33',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962105,
+            'name': '1.35',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962108,
+            'name': '1.38',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962111,
+            'name': '1.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962114,
+            'name': '1.42',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962117,
+            'name': '1.44',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962120,
+            'name': '1.45',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962123,
+            'name': '1.47',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962126,
+            'name': '1.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962129,
+            'name': '1.52',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962132,
+            'name': '1.54',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962135,
+            'name': '1.56',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962138,
+            'name': '1.58',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962141,
+            'name': '1.59',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962144,
+            'name': '1.62',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962147,
+            'name': '1.64',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962150,
+            'name': '1.66',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962153,
+            'name': '1.68',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962156,
+            'name': '1.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962159,
+            'name': '1.72',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962162,
+            'name': '1.74',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962165,
+            'name': '1.76',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962168,
+            'name': '1.78',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962171,
+            'name': '1.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962174,
+            'name': '1.82',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962177,
+            'name': '1.84',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962180,
+            'name': '1.86',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962183,
+            'name': '1.89',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962186,
+            'name': '1.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962189,
+            'name': '1.92',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962192,
+            'name': '1.94',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962195,
+            'name': '1.96',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962198,
+            'name': '1.98',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962501,
+            'name': '2.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962504,
+            'name': '2.2',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962507,
+            'name': '2.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962510,
+            'name': '2.45',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962513,
+            'name': '2.55',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962516,
+            'name': '2.65',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962519,
+            'name': '2.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962522,
+            'name': '2.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962525,
+            'name': '3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962528,
+            'name': '3.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962531,
+            'name': '3.2',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962534,
+            'name': '3.35',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962537,
+            'name': '3.45',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962540,
+            'name': '3.55',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962543,
+            'name': '3.65',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962546,
+            'name': '3.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962549,
+            'name': '3.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962552,
+            'name': '4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962555,
+            'name': '4.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962558,
+            'name': '4.15',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962561,
+            'name': '4.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962564,
+            'name': '4.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962567,
+            'name': '4.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962570,
+            'name': '4.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962573,
+            'name': '4.75',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962576,
+            'name': '4.85',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962579,
+            'name': '4.95',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962582,
+            'name': '5.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962585,
+            'name': '5.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962588,
+            'name': '5.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962591,
+            'name': '5.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962594,
+            'name': '6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962597,
+            'name': '6.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962600,
+            'name': '6.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962603,
+            'name': '6.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962606,
+            'name': '6.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962609,
+            'name': '7.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962612,
+            'name': '7.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962615,
+            'name': '7.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962618,
+            'name': '7.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962621,
+            'name': '8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962624,
+            'name': '8.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962627,
+            'name': '8.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962630,
+            'name': '8.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962633,
+            'name': '8.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962636,
+            'name': '9.2',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962639,
+            'name': '9.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962642,
+            'name': '9.6',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962645,
+            'name': '9.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962648,
+            'name': '10',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962651,
+            'name': '10.2',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962654,
+            'name': '10.3',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962657,
+            'name': '10.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962660,
+            'name': '10.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962663,
+            'name': '10.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962666,
+            'name': '11.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962669,
+            'name': '11.25',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962672,
+            'name': '11.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962675,
+            'name': '11.7',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962678,
+            'name': '11.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962681,
+            'name': '12',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962831,
+            'name': '17.9',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962837,
+            'name': '19.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962846,
+            'name': '$20.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962852,
+            'name': '21.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962858,
+            'name': '22.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962864,
+            'name': '$24.20',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962870,
+            'name': '25.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962873,
+            'name': '26.8',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962876,
+            'name': '28.1',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962879,
+            'name': '$29.40',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962882,
+            'name': '34',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962885,
+            'name': '41',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962888,
+            'name': '47.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962891,
+            'name': '54',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962894,
+            'name': '60.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962960,
+            'name': '68.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962963,
+            'name': '72',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962966,
+            'name': '76',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962969,
+            'name': '79',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962972,
+            'name': '83',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962975,
+            'name': '86.5',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962978,
+            'name': '90',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566962981,
+            'name': '94',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        },
+        {
+            'customTargetingKeyId': 13619230,
+            'id': 448566963584,
+            'name': '23.4',
+            'displayName': None,
+            'matchType': 'EXACT',
+            'status': 'ACTIVE'
+        }
+    ]
+}

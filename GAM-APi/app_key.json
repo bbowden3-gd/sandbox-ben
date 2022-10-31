@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "foxgam",
+  "private_key_id": "a11ca3af9c14fd1351aaf07c6a8212ecec78112c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcrVDa9HbfN6rd\nxW20h7JmxaQ4Y8UAdTaMcIKKyeiQOe9aPpHzQXucjoMylg+l3aF8+M4r9j18iVQW\nQNMjUfJAOab2G+xuIzzzZ838/YsEKGoHDVPpu5xw9axrpbN62/znwur/phfaM4kk\n1QGS0+zbM/lo+fn98I1c5D6NuF3kN0Pa4a+AfvSDBpftxMshRSAphPuoVh53funx\nB6Ot71em7bq14tVFW3SarcqqXv8AX1MFFDVc6tveTTC6SDfXuCAWRdPYYR6gGZr3\njk6LlsoSBQzBYRuT66rqsvbYBV/YEuOf8TSvnm4nTZJb5LEHQsZQeGJJEGJL7QP0\nIE9DvxyFAgMBAAECggEAME+AzwLyZIHVvexSl4gACpCGwpyA8lMyLrvChOkdPNug\nYkNI3akjZHLNIZwD1zEvykktyYB0FSKDOxliAVITUJp2UQzrKkrTUHqBmbDUXMPZ\nbbM+XKPs6SfXspm1bfzHTu9bZtjgIfgiIalMgum17yFnlmb+Hr8915bJcwmWaffk\nmRQYkFbi2s5UdbXvc3amCSQoV3ItKDKKhgAvdTDvaqRicqcwuOd2m7tpeSSdnFm6\nCeElTxe4Gadf8XpRO2e1XcIfkhDCdFmd1LL/32UqrtHSFoEu3KJNZTuFhITxTgDd\n0VjWwu9sJa/BhiIEL1rAM1kwqN9gOjX5bSnoZ2aDQQKBgQDZSqoMq2FdEQ363JU8\ncXvTP3vSRSW0iEADcu1a0asIvshw1VoQM8geZHpriEyivCfv0yB3pM/umDL0EnFS\nQjWVjIwSVo0XkicVF6tTztpfeloG7v0yeQHIEbUexdGeP6Mkvbcw0HltzkT/quHF\n0RjvDF++5qQhVobNMwFQu4o2fwKBgQC4lmQBOxOehJqS4Z/IiZpbtqAl/1TXDdsk\nNJeuiy9fYYKQUyLF4NNkw9tWXBDbI7FTvq5uQsi+1wivEIBQIKVk+IDVUWFzBkt6\nI8cnGLG/rC8qmzdz+hARXw+Lc/hLL54DKbFMSUbcz9znI7CypKThbLfnQpmKnfXg\nXipGRLlS+wKBgAJuKFq96/fbgfmFUBH9/vGM6zid118eiwC+31K9t5kAcUN5z2kQ\n+zMD0q6zNpA3ZIb1KI7OBBlaEG/UaPoPjYPfr41g9HEIDHHa8uqcDKs2th0PvTs8\nST3QnOL8OWz4rz1w9cSRAFqvDOyDH8VTomDCFawP7lQFILrY0DHz9wbHAoGAH6b6\nQxPES3xlnSY/Zf3ikDOCxsE/5RilKVIzaGTJnMt1vhXjcpcY6MCFDgv/f/Rg5gFe\nm92r2r246Xwk5JiUg/nw7aNk2HqN2sXj0ppzcHCwLdgr7CFHPBNW8QzT2OCzcctm\ncbRnCFpEgQYnuJpvA5DHAEr1VUW88dpz2VTTip0CgYEAhw0+tpMv/EQleQj6gzqj\nG79+d9DYUkZWh5cvtF8/bt4Mvr22gCHSUOnGuMKapMOg3LVsJOba8gqC84gjEJFP\nvebt4OsEcq+zjMzKlwFkNjM+7ZaDrBuW/vcTq1xPO7mkLij0fatHYiv7AushJ1PA\nFjEH7ePz6/09tzuc8oW6O5Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bbowden-tds@foxgam.iam.gserviceaccount.com",
+  "client_id": "117465694790401055249",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bbowden-tds%40foxgam.iam.gserviceaccount.com"
+}
